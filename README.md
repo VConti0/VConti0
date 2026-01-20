@@ -4,6 +4,7 @@
  
 Me chamo Vicenzo, sou formado em Análise e Desenvolvimento de Sistemas na UNIP. 
 Possuo experiência na área de dados e interesse em entrar na área de desenvolvimento de Software Java ou Python ou C#. 
+<br>
 Ainda não cheguei a subir todos os projetos passados e os novos desenvolvidos entre 2022 e 2025, então vou começar a refatorar os projetos da faculdade e ir adicionando aos poucos com o passar dos meses.
 ---
 

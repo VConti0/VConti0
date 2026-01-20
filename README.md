@@ -4,10 +4,13 @@
  
 Me chamo Vicenzo, sou formado em Análise e Desenvolvimento de Sistemas na UNIP. 
 Possuo experiência na área de dados e interesse em entrar na área de desenvolvimento de Software Java ou Python ou C#. 
-Ainda não cheguei a subir todos os projetos passados, então vou começar a refatorar os projetos da faculdade e ir adicionando aos poucos com o passar dos meses.
+Ainda não cheguei a subir todos os projetos passados e os novos desenvolvidos entre 2022 e 2025, então vou começar a refatorar os projetos da faculdade e ir adicionando aos poucos com o passar dos meses.
+---
+
+
 Próximos projetos adicionados: 
 <br>
-Sistema de Folha de Pagamento em C# para Desktop utilizando ASP.NET MVC para visualização WEB,
+Sistema de Folha de Pagamento em C# para Desktop utilizando ASP.NET MVC para visualização WEB | Até 30/maio/26,
 <br>
 Sistema de estoque em C++,
 <br>
@@ -15,8 +18,6 @@ Refatoração do consumo da API de dados públicos da CVM, e
 <br>
 Refatoração do consumo de API do Gemini para automatizar validação de captcha.
 <br>
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 

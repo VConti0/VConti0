@@ -76,10 +76,16 @@ Refatoração do consumo de API do Gemini para automatizar validação de captch
 <br/>
 
 ### 📊 Estatísticas
+shadow_red: {
+    title_color: "9A0000",
+    text_color: "444",
+    icon_color: "4F0000",
+    border_color: "4F0000",
+    bg_color: "ffffff00",
 
 <p>
   <img 
-    align="left" 
+    align="left"
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 

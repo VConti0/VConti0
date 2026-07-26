@@ -2,7 +2,8 @@
 
 **`Desenvolvedor de Software | Java | Python | C#`**
  
-Me chamo Vicenzo, sou formado em Análise e Desenvolvimento de Sistemas na UNIP e estou cursando Pós em Arquitetura e Desenvolvimento de Sistemas .Net
+Me chamo Vicenzo, sou formado em Análise e Desenvolvimento de Sistemas na UNIP e estou cursando Pós em Arquitetura e Desenvolvimento de Sistemas .Net na FIAP.
+<br>
 Possuo experiência na área de dados e interesse em entrar na área de desenvolvimento de Software Java ou Python ou C#. 
 <br>
 

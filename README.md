@@ -10,10 +10,6 @@ Possuo experiência na área de dados e interesse em entrar na área de desenvol
 ---
 
 
-Próximo projeto adicionado: 
-<br>
-Curso - Criando API do Zero com Clean Architecture em .Net,
-<br>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -71,13 +67,6 @@ Curso - Criando API do Zero com Clean Architecture em .Net,
 <br/>
 <br/>
 
-### 📊 Estatísticas
-shadow_red: {
-    title_color: "9A0000",
-    text_color: "444",
-    icon_color: "4F0000",
-    border_color: "4F0000",
-    bg_color: "ffffff00",
 
 <p>
   <img 
